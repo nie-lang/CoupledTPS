@@ -241,8 +241,8 @@ if __name__=="__main__":
     parser.add_argument('--max_epoch', type=int, default=120)
     parser.add_argument('--iter_num', type=int, default=4)
 
-    parser.add_argument('--train_path', type=str, default='/opt/data/private/nl/Data/DIR-D/training/')
-    parser.add_argument('--test_path', type=str, default='/opt/data/private/nl/Data/DIR-D/testing')
+    parser.add_argument('--train_path', type=str, default='../DIR-D/training/')
+    parser.add_argument('--test_path', type=str, default='../DIR-D/testing')
 
     # parse the arguments
     args = parser.parse_args()
