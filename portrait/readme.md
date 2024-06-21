@@ -3,7 +3,7 @@ Download Tan et al.'s dataset from [this repository](https://github.com/TanJing9
 
 
 ## Test 
-The pre-trained model of portrait correction is available at [Google Drive](https://drive.google.com/file/d/1wTlsVElJ2_dpQ-0Yhaup-usEOukz_XZb/view?usp=sharing) or [Baidu Cloud]().
+The pre-trained model of portrait correction is available at [Google Drive](https://drive.google.com/file/d/1wTlsVElJ2_dpQ-0Yhaup-usEOukz_XZb/view?usp=sharing) or [Baidu Cloud](https://pan.baidu.com/s/1XBVGLdax_Em4-xpJQNgvJw) (extraction code: 1234).
 
 Modify the model_path and test_path in portrait/Codes/test.py and run:
 ```
