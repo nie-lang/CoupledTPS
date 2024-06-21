@@ -93,7 +93,7 @@ if __name__=="__main__":
     parser.add_argument('--batch_size', type=int, default=1)
     parser.add_argument('--iter_num', type=int, default=3)
     parser.add_argument('--model_path', type=str, default='../model/rectangling.pth')
-    parser.add_argument('--test_path', type=str, default='/opt/data/private/nl/Data/DIR-D/testing/')
+    parser.add_argument('--test_path', type=str, default='../DIR-D/testing/')
 
     print('<==================== Loading data ===================>\n')
 
