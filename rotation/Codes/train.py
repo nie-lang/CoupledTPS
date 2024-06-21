@@ -268,9 +268,9 @@ if __name__=="__main__":
     parser.add_argument('--batch_size', type=int, default=4)
     parser.add_argument('--max_epoch', type=int, default=180)
     parser.add_argument('--iter_num', type=int, default=4)
-    parser.add_argument('--train_path', type=str, default='/opt/data/private/nl/Data/DRC-D/training/')
-    parser.add_argument('--train_unlabel_path', type=str, default='/opt/data/private/nl/Data/DRC-D/training_unlabel/')
-    parser.add_argument('--test_path', type=str, default='/opt/data/private/nl/Data/DRC-D/testing/')
+    parser.add_argument('--train_path', type=str, default='../DRC-D/training/')
+    parser.add_argument('--train_unlabel_path', type=str, default='../DRC-D/training_unlabel/')
+    parser.add_argument('--test_path', type=str, default='../DRC-D/testing/')
 
     #nl: parse the arguments
     args = parser.parse_args()
