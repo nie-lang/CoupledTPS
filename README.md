@@ -31,6 +31,10 @@ We implement this work with Ubuntu, 3090Ti, and CUDA11. Refer to [environment.ym
 * For **Portrait Correction**, please refer to [Warp/readme.md](https://github.com/nie-lang/UDIS2/blob/main/Warp/readme.md).
 
 ### Better Performance
+> The latent condition is designed to speed up the inference, but we found it may depress the performance of CoupledTPS. To further unleash the potential of CoupledTPS, one can replace the latent condition with the image (refer to Fig. 3 of our paper), which could further break the performance bottleneck of TPS transformation.
+
+We conduct a experiment on the rotation correction task and show the results below
+
 With Latent Condition
 |  | PSNR| SSIM |
 |:-------- |:-----|:-----|
