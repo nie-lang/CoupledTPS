@@ -211,7 +211,7 @@ if __name__=="__main__":
     parser.add_argument('--batch_size', type=int, default=1)
     parser.add_argument('--iter_num', type=int, default=1)
     parser.add_argument('--model_path', type=str, default='../model/portrait.pth')
-    parser.add_argument('--test_path', type=str, default='/opt/data/private/nl/Data/PortraitData/test/')
+    parser.add_argument('--test_path', type=str, default='../PortraitData/test/')
 
     print('<==================== Loading data ===================>\n')
 
