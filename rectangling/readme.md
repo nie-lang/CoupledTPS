@@ -3,7 +3,7 @@ Download DIR-D dataset from [this repository](https://github.com/nie-lang/DeepRe
 
 
 ## Test 
-The pre-trained model of portrait correction is available at [Google Drive](https://drive.google.com/file/d/1bxegahr630uTz7679MgmN4AxQN6GClvv/view?usp=sharing) or [Baidu Cloud]().
+The pre-trained model of rectangling is available at [Google Drive](https://drive.google.com/file/d/1bxegahr630uTz7679MgmN4AxQN6GClvv/view?usp=sharing) or [Baidu Cloud]().
 
 Modify the model_path and test_path in rectangling/Codes/test.py and run:
 ```
