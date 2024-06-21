@@ -1,7 +1,7 @@
 ## Dataset
 Labeled dataset: Download DRC-D dataset from [this repository](https://github.com/nie-lang/RotationCorrection).
 
-Unlabeled dataset: Download it from [Google Drive]() or [Baidu Cloud]().
+Unlabeled dataset: Download it from [Google Drive]() or [Baidu Cloud]() and then put it (training_unlabel) in the folder of DRC-D.
 
 
 ## Test 
