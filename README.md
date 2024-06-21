@@ -23,7 +23,7 @@ The above figure shows three examples of our method. The proposed CoupledTPS cor
 * scikit-image 0.15.0
 * tensorboard 2.9.0
 
-We implement this work with Ubuntu, 3090Ti, and CUDA11. Refer to [environment.yml](https://github.com/nie-lang/UDIS2/blob/main/environment.yml) for more details.
+We implement this work with Ubuntu, 3090Ti, and CUDA11. Refer to [environment.yml](https://github.com/nie-lang/CoupledTPS/blob/main/environment.yml) for more details.
 
 ### How to run it
 * For **Rotation Correction**, please refer to [Warp/readme.md](https://github.com/nie-lang/UDIS2/blob/main/Warp/readme.md).
