@@ -427,8 +427,8 @@ if __name__=="__main__":
     parser.add_argument('--batch_size', type=int, default=4)
     parser.add_argument('--max_epoch', type=int, default=120)
     parser.add_argument('--iter_num', type=int, default=4)
-    parser.add_argument('--train_path', type=str, default='/opt/data/private/nl/Data/PortraitData/train_4_3/')
-    parser.add_argument('--test_path', type=str, default='/opt/data/private/nl/Data/PortraitData/test/')
+    parser.add_argument('--train_path', type=str, default='../PortraitData/train_4_3/')
+    parser.add_argument('--test_path', type=str, default='../PortraitData/test/')
 
     # parse the arguments
     args = parser.parse_args()
