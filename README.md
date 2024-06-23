@@ -60,11 +60,16 @@ If you have any questions about this project, please feel free to drop me an ema
 NIE Lang -- nielang@bjtu.edu.cn
 ```
 @article{nie2024semi,
-  title={Semi-Supervised Coupled Thin-Plate Spline Model for Rotation Correction and Beyond},
   author={Nie, Lang and Lin, Chunyu and Liao, Kang and Liu, Shuaicheng and Zhao, Yao},
-  journal={arXiv preprint arXiv:2401.13432},
-  year={2024}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Semi-Supervised Coupled Thin-Plate Spline Model for Rotation Correction and Beyond}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TPAMI.2024.3417024}
 }
+
 ```
 
 
